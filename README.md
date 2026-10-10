@@ -52,7 +52,11 @@ Pin Configuration :
 10. Potentiometer power connections — Both potentiometers' outer terminals to 5V and GND, respectively.
 11. Common ground — Connect all module grounds to Arduino GND.
 
-![image alt](
+Circuit Diagram :
+
+![image alt](https://github.com/iftakerhossainrafi-create/Smart-Voltage-and-Current-Protector/blob/ca8996d8f2d20323c8e389cb3fb051669016d35c/Circuit%20Diagram%201.jpeg)
+![image alt]()
+
 
 Working Principle :
 
