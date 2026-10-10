@@ -4,7 +4,7 @@ Introduction :
 Voltage variations and excessive current can damage electrical equipment and interrupt operation. A protection controller monitors electrical parameters and disconnects the load when readings leave permitted limits.
 This project demonstrates the core control logic of such a controller using an Arduino Uno, an LCD, a relay module, tow potentiometer, a buzzer and a fault indicator. It is an educational and recruitment-project demonstration covering under-voltage, over-voltage and over-current detection, computer communication, configurable thresholds and delayed reconnection.
 
-Objectives
+Objectives :
 
 The prototype is designed to meet the following objectives:
 •	Detect input values above an upper voltage threshold or below a lower voltage threshold.
@@ -15,7 +15,7 @@ The prototype is designed to meet the following objectives:
 •	Require three seconds of continuously valid input before reconnecting the load.
 •	Provide a safe, low-voltage prototype suitable for demonstration.
 
-## Hardware Components
+Hardware Components :
 
 1. Arduino Uno or compatible board — 1 piece
 2. 16×2 LCD with I2C backpack — 1 piece
@@ -29,7 +29,7 @@ The prototype is designed to meet the following objectives:
 10. USB cable — 1 piece
 11. Computer with Arduino IDE and Serial Monitor — 1 unit
 
-## Pin Configuration
+Pin Configuration :
 
 1. Voltage input signal — A0 (connected to the wiper of the first potentiometer)
 2. Current input signal — A1 (connected to the wiper of the second potentiometer)
