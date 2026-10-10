@@ -55,7 +55,7 @@ Pin Configuration :
 Circuit Diagram :
 
 ![image alt](https://github.com/iftakerhossainrafi-create/Smart-Voltage-and-Current-Protector/blob/ca8996d8f2d20323c8e389cb3fb051669016d35c/Circuit%20Diagram%201.jpeg)
-![image alt]()
+![image alt](https://github.com/iftakerhossainrafi-create/Smart-Voltage-and-Current-Protector/blob/29b885737ab7fa513c6ca691c570d45ebfa7d756/Circuit%20Diagram%202.jpeg)
 
 
 Working Principle :
