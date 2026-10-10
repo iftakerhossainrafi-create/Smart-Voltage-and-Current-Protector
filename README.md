@@ -52,6 +52,7 @@ Pin Configuration :
 10. Potentiometer power connections — Both potentiometers' outer terminals to 5V and GND, respectively.
 11. Common ground — Connect all module grounds to Arduino GND.
 
+![image alt](
 
 Working Principle :
 
